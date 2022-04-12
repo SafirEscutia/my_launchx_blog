@@ -6,4 +6,4 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 ¡Hola!
 
-en esta primer semana me frustre bastante debido a que por mas que intentara hacer las cosas bien a la primera no salia como esperaba.
+Espero que todos disfrutemos de esta travesia.
