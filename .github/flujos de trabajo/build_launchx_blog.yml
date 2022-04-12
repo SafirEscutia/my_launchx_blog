@@ -6,6 +6,7 @@ jobs:
 
     name: Build and update website
     runs-on: ubuntu-latest
+    run-on: windows-latest
 
     steps:
     - uses: actions/checkout@v2
